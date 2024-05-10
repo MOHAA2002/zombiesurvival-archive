@@ -13,6 +13,6 @@
 
 ## FAQ
 - Q: I have an old hard drive with some builds on it-
-- A: Say no more. just send everything to [Soldier](https://discord.com/users/414261058472116225). I will look through them. Or, if you prefer, pull requests are open.
+- A: Say no more. Just send everything to [Soldier](https://discord.com/users/414261058472116225). I will look through them. Or, if you prefer, pull requests are open.
 - Q: Where are the maps?
 - A: Over [Here](https://github.com/MOHAA2002/zombiesurvival-map-archive-update), except they mostly date before 2009.
