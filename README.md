@@ -1,5 +1,10 @@
 # Zombie Survival Archive
 
+## Contributors:
+- [bt](https://steamcommunity.com/id/pepega-gaming/)
+- [Nafrayu](https://steamcommunity.com/id/nafrayu)
+- [Rambrox](https://steamcommunity.com/id/xRambrox/)
+
 ## Sources:
 - [Garrysmods.org (2015-2023)](https://web.archive.org/web/20230816112503/https://garrysmods.org/)
 - [GM9 Archive](https://gm9.frag-net.com/)
